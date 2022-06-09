@@ -1,2 +1,2 @@
 # RandomNotes
-Some random notes I 
+Some random notes
